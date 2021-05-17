@@ -15,9 +15,9 @@ The first iteration of the code I wrote was not working. Despite reaching out to
 In the new format the prompts are variables instead of functions and they continue to run on their own. I set up arrays for each character type as well. I tried to use ".String.fromCharCode" as I had in the previous version but again I could not get this to render correctly so I just typed all the characters out. When the user selects the type of characters that will be used in the password, those choices are then added together into the empty array (using the spread method) through some 'if' statements which is then looped through the 'for' loop and returned into the generated password.
 
 ### **Location:**
-Website can be found at :
+Website can be found at : https://mattbisbee.github.io/Password-Generator/
 
-GitHub: 
+GitHub: https://github.com/mattbisbee/Password-Generator.git
 
 ## **Images:**
 ![Screenshot](assets/capture.JPG)
